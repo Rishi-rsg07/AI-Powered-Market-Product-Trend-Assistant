@@ -1,0 +1,23 @@
+[
+  {
+    "sku": "VIT-GLOW-01",
+    "brand": "Aura Wellness",
+    "total_revenue_usd": 1200000,
+    "suggested_category": "Skin & Radiance",
+    "raw_claims_text": "Collagen booster formulation. Contains active Hyaluronic Acid. Supports cellular repair."
+  },
+  {
+    "sku": "KETO-BURN-02",
+    "brand": "Apex Nutrition",
+    "total_revenue_usd": 850000,
+    "suggested_category": "Metabolism & Weight Management",
+    "raw_claims_text": "Advanced thermogenic complex. Clean Apple Cider Vinegar extraction with Green Tea catechins."
+  },
+  {
+    "sku": "ZEN-MIND-03",
+    "brand": "Calm Horizon",
+    "total_revenue_usd": 2100000,
+    "suggested_category": "Cognitive Health & Stress",
+    "raw_claims_text": "Ashwagandha stress support matrices. Features high-purity L-Theanine for alpha-wave cognitive focus."
+  }
+]
