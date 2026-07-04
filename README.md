@@ -1,0 +1,1 @@
+# AI-Powered-Market-Product-Trend-Assistant
